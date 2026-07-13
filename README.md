@@ -1,10 +1,11 @@
-# FINA 4335 – Project 2: CAPM & Fama-French Factor Testing
+# Factor Investing & Momentum Backtest
 
-Group project (FINA 4335, Prof. Marius Popescu) testing the CAPM on
-beta-sorted portfolios, estimating Fama-French 3-factor exposures for
-individual stocks (including a 60-year rolling regression on Berkshire
-Hathaway), and backtesting a simple moving-average crossover strategy
-against Fama-French benchmark portfolios.
+Research/experimentation project testing the CAPM on beta-sorted
+portfolios, estimating Fama-French 3-factor exposures for individual stocks
+(including a 60-year rolling regression on Berkshire Hathaway), and
+backtesting a simple moving-average crossover strategy against Fama-French
+benchmark portfolios. Originated from a group project in FINA 4335 (Asset
+Pricing, Prof. Marius Popescu).
 
 ## What this demonstrates
 
